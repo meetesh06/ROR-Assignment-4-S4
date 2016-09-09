@@ -1,0 +1,14 @@
+1) 
+a) Cannot be inherited 
+
+2)
+c) Using reverse method 
+
+3)
+a) FixNum and BigNum
+
+4)
+b) Fixnum
+
+5)
+c) Both
